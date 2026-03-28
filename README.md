@@ -3,7 +3,7 @@
 ###alt + w - 창 최대화 토글 , 세 손가락 위로
 ###alt + e - 창 최소화
 ###우선 위의 단축키를 먼저 지정해야 합니다.
-##fusuma 설치 
+###fusuma 설치 
 ###$ sudo gpasswd -a $USER input 
 ###$ apt install libinput-tools ruby xdotool
 ###$ sudo gem install fusuma 
