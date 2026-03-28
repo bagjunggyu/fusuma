@@ -10,3 +10,5 @@
 ##### $ mkdir -p .config/fusuma 
 ##### $ xed .config/fusuma/config.yml 
 ##### 또는, 이 설정 값을 다운로드해서 ~/.config/fusuma 폴더에 붙여 넣으면 됩니다.
+### 시작 애플리케이션에 등록합니다.
+##### https://blog.naver.com/bagjunggyu/224231202195
