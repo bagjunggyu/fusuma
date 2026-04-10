@@ -4,6 +4,7 @@
 ##### alt + e - 창 최소화
 ##### super + w - 전체화면 토글
 ##### 우선 위의 단축키를 먼저 지정합니다.
+##### 추가 정보 - ctrl+alt+Down - 열린 창 보기
 ### fusuma 설치 
 ##### $ sudo gpasswd -a $USER input 
 ##### $ apt install libinput-tools ruby xdotool
